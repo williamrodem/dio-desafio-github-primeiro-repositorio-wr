@@ -1,0 +1,2 @@
+# Api github
+Apenas estudei a logicar do código clonando seu repositório e refazendo passo a passo o código, código permanece inalterado sem nenhuma modificação no código feito por Matheus Benites , graças aos conceitos do Matheus Benites aprendi sobre como devo organizar meu app react e irei usar esse aprendizado em meus novos projetos os conceitos ensinados por Matheus Benites.
